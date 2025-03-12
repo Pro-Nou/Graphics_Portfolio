@@ -19,7 +19,6 @@ Besiege存档转模型(独立运行，c++手搓)：https://github.com/Pro-Nou/bs
 # Unity2021.3.23
 用于occupancy可视化的渲染效果  
 occupancy可视化预览：https://github.com/Pro-Nou/Graphics_Portfolio/blob/main/occupancy/occupancy_ppt_8.mp4  
-项目链接：https://github.com/Pro-Nou/xviewer_u3d  
 
 # UE5.5.3
 用于UE5.5的各种渲染效果，已完成迁移体积云和FFT海面等此前Unity中的资产，考虑到体积和半透明光照，以及三渲二的问题，目前正在探索通过computeshader重写MegaLight的可行性  
