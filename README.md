@@ -1,6 +1,17 @@
 # 个人作品集
 公司项目涉及保密问题不在此列  
 
+# UE5
+自研噪声库程序化landscape，compute shader改进landscape加载(专利公开号：CN121616784A)
+自研niagara实时计算Gerstner海及水下后处理
+自研compute shader浅水流体仿真，高性能CRP捕获速度场
+改进自UE5.2黑客帝国demo路网算法的PCG城市及路网
+类似nanite foliage自研程序化植被建模
+自研PCG节点程序化建筑建模
+自研ISM可破坏物动态池
+自研GPU回读浮力系统
+自研用于dynamicmesh、proceduralmesh的晶格变形、splinemesh、网格合并等组件
+
 # DX12手搓fps  
 本科毕业设计，c++手搓管线+物理，实现了基本的图形渲染和物理计算  
 项目链接： https://github.com/Pro-Nou/FPS-game-based-on-Direct-12-3D  
@@ -19,7 +30,3 @@ Besiege存档转模型(独立运行，c++手搓)：https://github.com/Pro-Nou/bs
 # Unity2021.3.23
 用于occupancy可视化的渲染效果  
 occupancy可视化预览：https://github.com/Pro-Nou/Graphics_Portfolio/blob/main/occupancy/occupancy_ppt_8.mp4  
-
-# UE5.5.3
-用于UE5.5的各种渲染效果，已完成迁移体积云和FFT海面等此前Unity中的资产，考虑到体积和半透明光照，以及三渲二的问题，目前正在探索通过computeshader重写MegaLight的可行性  
-预览：https://github.com/Pro-Nou/Graphics_Portfolio/tree/main/UE5  
